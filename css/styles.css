@@ -11,7 +11,7 @@
 
 /* General */
 
-body {
+.body {
     font-family: roboto, sans-serif;
     color: var(--primary-title-color);
     background-color: var(--primary-white-color);
@@ -66,7 +66,7 @@ ul {
     color: #000000;
 }
 
-nav {
+.nav {
     display: flex;
     align-items: center;
 }
